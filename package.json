@@ -1,0 +1,14 @@
+{
+  "name": "express-overview",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Felipe Francischetto",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "dependencies": {
+    "express": "^4.16.2",
+    "nodemon": "^1.13.3"
+  }
+}
